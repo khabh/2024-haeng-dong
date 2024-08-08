@@ -10,4 +10,5 @@ public class HaengdongApplication {
         SpringApplication.run(HaengdongApplication.class, args);
     }
 
+
 }
